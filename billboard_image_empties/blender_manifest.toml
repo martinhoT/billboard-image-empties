@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+
+id = "billboard_image_empties"
+version = "0.0.1"
+name = "Billboard Image Empties"
+tagline = "Option to view an image empty in billboard mode in the viewport."
+maintainer = "Martinho Tavares"
+type = "add-on"
+website = "https://github.com/martinhoT/billboard-image-empties"
+tags = ["Object", "3D View"]
+blender_version_min = "4.2.0"
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
